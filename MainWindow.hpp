@@ -3,7 +3,7 @@
 
 #include <QApplication>
 #include <QtWidgets>
-#include "Subtitle.h"
+#include "Subtitle.hpp"
 
 
 class MainWindow : public QWidget

@@ -1,4 +1,4 @@
-#include "Subtitle.h"
+#include "Subtitle.hpp"
 
 Subtitle::Subtitle()
 {

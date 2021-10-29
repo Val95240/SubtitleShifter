@@ -5,8 +5,8 @@ QT += widgets
 
 TARGET = main
 
-HEADERS += MainWindow.h
-HEADERS += Subtitle.h
+HEADERS += MainWindow.hpp
+HEADERS += Subtitle.hpp
 
 SOURCES += MainWindow.cpp
 SOURCES += Subtitle.cpp
